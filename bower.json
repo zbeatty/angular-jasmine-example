@@ -1,0 +1,9 @@
+{
+  "name": "jasmine-training",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "jasmine": "~2.3.4",
+    "angular-mocks": "~1.4.0"
+  }
+}
